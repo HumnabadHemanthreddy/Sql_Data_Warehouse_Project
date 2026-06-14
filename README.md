@@ -13,7 +13,7 @@ This project demonstrates comprehensive data warehousing and analytics solution,
 Develop a modern data warehouse using SQL server to consolidate sales data, enabaling analytical reporting and informed decision-making.
 
 #### Specifications
-- ** Data Source**: Import data from two source systems(ERP and CRM) provided as csv files.
+- **Data Source**: Import data from two source systems(ERP and CRM) provided as csv files.
 - **Data Quality**: Clean and resolve the data quality issues priorto analysis.
 - **Integration**: Combine both sources into a single,user-friendly data model designed for analytical queries.
 - **Scope**: Focus on the latest dataset only; hisstorization of data is not required .
